@@ -6,13 +6,13 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Achebe Divine |
+| GitHub Username |divineachebe302-wq |
+| Email Address |divineachebe302@gmail.com |
+| Phone / WhatsApp |08067822743 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date |7th september 2026 |
+| LinkedIn Profile |Achebe Divine |
 
 ---
 
@@ -20,7 +20,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
 
-> Replace this line with your learning objective.
+By the end of this internship, I want to be able to design and ship automation workflows end-to-end without hand-holding — from mapping out the logic, to catching the messy edge cases before they break something, to knowing when AI genuinely adds value versus when it's just complexity for its own sake.
 
 ---
 
